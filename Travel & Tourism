@@ -1,0 +1,62 @@
+
+<!dDOCTYPE html>
+<html>
+<head>
+<title>Travel and Tourism</title>
+<style>
+body{
+margin:0;
+background:url('Wooden-Apple.jpg');
+background-size:cover;
+}
+.navoo{
+width:100%;
+background:#000033;
+height:100px;
+margin-top:100px;
+opacity:0.5;
+}
+ul {
+list-style:none;
+padding:0;
+margin:0;
+position:absolute;
+}
+li {
+float:left;
+margin-top:30px;
+}
+a {
+width:150px;
+color:white;
+display:block;
+text-decoration:none;
+font-size:20px;
+text-align:center;
+padding:10px;
+border-radius:10px;
+font-family:Century Gothic;
+font-weight:bold;
+}
+a:hover{
+background:#669900;
+trasition:0.6s;
+}
+</style>
+</head>
+<body>
+<div class="navoo">
+<ul>
+<li><a href="html/home.html">Home</a></li>
+<li><a href="html/touristspot.html">Tourist Spot</a></li>
+<li><a href="html/news.html">News</a></li>
+<li><a href="html/about.html">About</a></li>
+<li><a href="html/contact.html">Contact</a></li>
+</ul>
+</div>
+<div>
+<img src="maity.jpg" alt="home image" width="1360" height="450">
+</div>
+</body>
+
+</html>
